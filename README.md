@@ -42,6 +42,9 @@ https://marketplace.visualstudio.com/items?itemName=eddiejaoude.js-fullstack-ext
 - [Javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 
 ## Publish to MarketPlace
 
