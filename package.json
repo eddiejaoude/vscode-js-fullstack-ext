@@ -38,7 +38,11 @@
         "wayou.vscode-todo-highlight",
         "wix.vscode-import-cost",
         "YoshinoriN.current-file-path",
-        "Zignd.html-css-class-completion"
+        "Zignd.html-css-class-completion",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "jkjustjoshing.vscode-text-pastry",
+        "wix.vscode-import-cost"
     ],
     "repository": {
         "type": "git",
