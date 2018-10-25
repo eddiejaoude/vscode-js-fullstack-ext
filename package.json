@@ -40,7 +40,8 @@
         "YoshinoriN.current-file-path",
         "Zignd.html-css-class-completion",
         "esbenp.prettier-vscode",
-        "jkjustjoshing.vscode-text-pastry"
+        "jkjustjoshing.vscode-text-pastry",
+        "tombonnike.vscode-status-bar-format-toggle"
     ],
     "repository": {
         "type": "git",
