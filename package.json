@@ -39,10 +39,8 @@
         "wix.vscode-import-cost",
         "YoshinoriN.current-file-path",
         "Zignd.html-css-class-completion",
-        "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "jkjustjoshing.vscode-text-pastry",
-        "wix.vscode-import-cost"
+        "jkjustjoshing.vscode-text-pastry"
     ],
     "repository": {
         "type": "git",
