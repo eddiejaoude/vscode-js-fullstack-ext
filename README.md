@@ -15,10 +15,13 @@ https://marketplace.visualstudio.com/items?itemName=eddiejaoude.js-fullstack-ext
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
 - [Clipboard History](https://marketplace.visualstudio.com/items?itemName=Anjali.clipboard-history)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [TODO highlighter](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [Paste JSON as code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- [Indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 ## Git
 
@@ -36,8 +39,9 @@ https://marketplace.visualstudio.com/items?itemName=eddiejaoude.js-fullstack-ext
 ## Fullstack Javascript plugins
 
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
-- [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)
+- [Javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+- [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 ## Publish to MarketPlace
 
