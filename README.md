@@ -22,6 +22,8 @@ https://marketplace.visualstudio.com/items?itemName=eddiejaoude.js-fullstack-ext
 - [TODO highlighter](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Paste JSON as code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 
 ## Git
 
@@ -43,8 +45,6 @@ https://marketplace.visualstudio.com/items?itemName=eddiejaoude.js-fullstack-ext
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 
 ## Publish to MarketPlace
 

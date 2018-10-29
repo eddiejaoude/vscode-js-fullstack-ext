@@ -22,8 +22,10 @@
         "cssho.vscode-svgviewer",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
+        "esbenp.prettier-vscode",
         "formulahendry.auto-rename-tag",
         "ionutvmi.path-autocomplete",
+        "jkjustjoshing.vscode-text-pastry",
         "msjsdiag.debugger-for-chrome",
         "naumovs.color-highlight",
         "oderwat.indent-rainbow",
@@ -34,14 +36,12 @@
         "shinnn.stylelint",
         "whtouche.vscode-js-console-utils",
         "shan.code-settings-sync",
-        "xyz.local-history",
+        "tombonnike.vscode-status-bar-format-toggle",
         "wayou.vscode-todo-highlight",
         "wix.vscode-import-cost",
+        "xyz.local-history",
         "YoshinoriN.current-file-path",
-        "Zignd.html-css-class-completion",
-        "esbenp.prettier-vscode",
-        "jkjustjoshing.vscode-text-pastry",
-        "tombonnike.vscode-status-bar-format-toggle"
+        "Zignd.html-css-class-completion"
     ],
     "repository": {
         "type": "git",
